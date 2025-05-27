@@ -22,6 +22,6 @@ Return % for each product — key for tracking quality/performance
 Revenue share by categories like Vitamin, Mineral, Protein, Performance, Amino Acid
 Vitamin Category is giving the maximum Revenue in every year.
 
-✅ Add a Conclusion Section
+✅ Adding a Conclusion Section
 
 Recommend focusing on iHerb & Vitamin category while reducing return % in BCAA & Pre-Workout lines.
